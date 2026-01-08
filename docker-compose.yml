@@ -2,6 +2,6 @@ version: "3.9"
 services:
   react:
     build:
-      context: ./Age-Calculator-js-project
+      context: .
     ports:
       - "3001:80"
